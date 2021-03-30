@@ -1,6 +1,6 @@
 ##	RESTFUL API USING FLASK
 
-### This project mainly revolves around the basic mechanism of restful api, using the basic operations, like GET, PUT, POST, PATCH and DELETE.
+ This project mainly revolves around the basic mechanism of restful api, using the basic operations, like GET, PUT, POST, PATCH and DELETE.
 
 
 
